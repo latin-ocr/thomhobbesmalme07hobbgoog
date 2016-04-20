@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomhobbesmalme07hobbgoog_0010.png"; bbox 0 0 1506 2025; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 605 894 963 935">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 605 894 963 935">
+     <span class='ocr_line' id='line_1_1' title="bbox 743 894 823 904; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 743 894 823 904; x_wconf 60' lang='lat' dir='ltr'><strong>msumu:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 605 918 963 935; baseline -0.003 -4"><span class='ocrx_word' id='word_1_2' title='bbox 605 921 651 932; x_wconf 59' lang='lat' dir='ltr'>Tvms</span> <span class='ocrx_word' id='word_1_3' title='bbox 663 922 676 931; x_wconf 84' lang='grc' dir='ltr'>ι-.</span> <span class='ocrx_word' id='word_1_4' title='bbox 689 921 777 935; x_wconf 67' lang='lat' dir='ltr'>nxz-mnus,</span> <span class='ocrx_word' id='word_1_5' title='bbox 788 921 811 932; x_wconf 60' lang='grc' dir='ltr'>,ετΔ</span> <span class='ocrx_word' id='word_1_6' title='bbox 823 918 901 930; x_wconf 58' lang='lat' dir='ltr'>wnnw&#39;s</span> <span class='ocrx_word' id='word_1_7' title='bbox 914 920 963 930; x_wconf 73' lang='lat' dir='ltr'>mxv.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
